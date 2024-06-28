@@ -1,0 +1,1 @@
+This is a personal portfolio telling a bit about myself and showing some of the skills that I know and I am learning.
